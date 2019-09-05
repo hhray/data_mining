@@ -1,6 +1,6 @@
 Developed a recommendation system using Yelp dataset to recommend restaurants to users. 
-Our yelp recommendation system learns users’ preference by mining both the previous ratings given by users as well as the business features. 
+The yelp recommendation system learns users’ preference by mining both the previous ratings given by users as well as the business features. 
 
-We experimented two approaches: Content-Based Filtering and Collaborative Filtering (item-based and user-based collaborative filtering).
+Experimented two approaches: Content-Based Filtering and Collaborative Filtering (item-based and user-based collaborative filtering).
 
-We also demonstrated to use Natural Language Processing (NLP) techniques to predict rating from review text. Various data mining techniques including supervised learning algorithm KNN, Naive Bayes Classifier, Linear SVM and feature selection technique TF-IDF were used in this project. We compared recommender systems approaches and NLP techniques to predict rating from review text.
+Demonstrated to use Natural Language Processing (NLP) techniques to predict rating from review text. Various data mining techniques including supervised learning algorithm KNN, Naive Bayes Classifier, Linear SVM and feature selection technique TF-IDF were used in this project. We compared recommender systems approaches and NLP techniques to predict rating from review text.
